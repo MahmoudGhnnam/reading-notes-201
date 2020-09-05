@@ -42,11 +42,12 @@ Block elements always appear on a new line in the browser window like ```<h1>,<p
 always appear to continue on the same line as their neighboring elements like 
 ````<a>,<b>,<img>```
 
-div :
-its use it to group text and elements in a one block-level box
+ here some example for tag and their usage
+ | TAG | USAGE |
+ |-- | -- |
+ | div |its use it to group text and elements in a one block-level box|
+ |span|its use it to group text and elements in an inline-block|
 
-span:
-its use it to group text and elements in an inline-block
 
 
 HTML5 LAYOUT ELEMENTS:
