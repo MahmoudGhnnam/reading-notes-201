@@ -75,24 +75,24 @@ and there's more layout for HTML 5 you can find it on google.
 
 # javascript:
 
-## WHAT IS A SCRIPT AND HW DO I CREATE ONE?
+## WHAT IS A SCRIPT AND HW DO I CREATE ONE?.
 
 ### A script is a series of instructions that a computer can follow step-by-step to achieve a goal. 
 
 ## to write script you need to :
 
-* Define the goal 
+* Define the goal .
 First, you need to define the task you want to
 achieve. You can think of this as a puzzle for the
 computer to solve.
 
 
-* design the script 
+* design the script .
 To design a script you split the goal out into a series
 of tasks that are going to be involved in solving this
 puzzle. This can be represented using a flowchart.
 
-* code each step
+* code each step .
 Each of the steps needs to be written in a
 programming language that the compu ter
 understands. In our case, this is JavaScript.
