@@ -41,7 +41,7 @@ Block elements always appear on a new line in the browser window like ```<h1>,<p
 ### INLINE ELEMENTS:
 always appear to continue on the same line as their neighboring elements like 
 ````<a>,<b>,<img>```
-
+ 
  here some example for tag and their usage
  | TAG | USAGE |
  |-- | -- |
