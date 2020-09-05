@@ -36,35 +36,36 @@ it's like id but in class, you can use it several times
 class-"name" 
 
 ### BLOCK ELEMENTS :
-Block elements always appear on a new line in the browser window like ```<h1>,<p>,<ul>,<li>```
+Block elements always appear on a new line in the browser window like .
+```<h1>,<p>,<ul>,<li>```
 
 ### INLINE ELEMENTS:
-always appear to continue on the same line as their neighboring elements like 
-````<a>,<b>,<img>```
+always appear to continue on the same line as their neighboring elements like .
+```<a>,<b>,<img>```
  
- here some example for tag and their usage
- | TAG | USAGE |
- |-- | -- |
- | div |its use it to group text and elements in a one block-level box|
+ here some example for tag and their usage.
+
+ |TAG|USAGE|
+ |--|--|
+ |div|its use it to group text and elements in a one block-level box|
  |span|its use it to group text and elements in an inline-block|
 
 
 
-HTML5 LAYOUT ELEMENTS:
+# HTML5 LAYOUT ELEMENTS:
 
-HEADER AND FOOTER :
-header and footer used for 
+## HEADER AND FOOTER :
+header and footer used for
 1- to appears at the top or bottom of every page on the site 
-2 - for an individual <article > or <section> within the page
+2- for an individual ```<article > or <section>``` within the page
 
-NAVIGATION <nav>:
+## NAVIGATION ```<nav>```:
 The <nav> element is used to
 contain the major navigational
 blocks on the site such as the
 primary site navigation.
 
-ARTICLES
-<article>:
+## ARTICLES ```<article>```:
 The article element acts as
 a container for any section of 
 a page that could stand alone and
@@ -81,18 +82,18 @@ and there's more layout for HTML 5 you can find it on google.
 
 ## to write script you need to :
 
-* Define the goal .
++ Define the goal .
 First, you need to define the task you want to
 achieve. You can think of this as a puzzle for the
 computer to solve.
 
 
-* design the script .
++ design the script .
 To design a script you split the goal out into a series
 of tasks that are going to be involved in solving this
 puzzle. This can be represented using a flowchart.
 
-* code each step .
++ code each step .
 Each of the steps needs to be written in a
 programming language that the compu ter
 understands. In our case, this is JavaScript.
