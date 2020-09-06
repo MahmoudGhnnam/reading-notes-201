@@ -20,3 +20,4 @@ is a website to help all the software develober to create their site and you don
  | Content      | Description
 ------------      | ------------
 *[read1](https://mahmoudghnnam.github.io/reading-notes-201/class-01)* | class-01
+*[read2](https://mahmoudghnnam.github.io/reading-notes-201/class-02)*| class-01
