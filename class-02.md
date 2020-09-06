@@ -88,22 +88,23 @@ of two values: true or false.
 # quick quiz
 
 ## in inline css style we use link in head tag to tell browser use css
-[] yes
-[x] no
+- [ ] yes
+- [x] no
 
 ## to use paragraph tag we use ```<b>``` tag in html
-[] yes
-[x] no
+- [ ] yes
+- [x] no
 
 ## to name variable in java we but the name after var 
-[x] yes
-[] no
+- [x] yes
+- [ ] no
 
 
-|Dictionary | section|
-|HTML TEXT | 1|
-|CSS | 2|
-|JAVA | 3|
+|Dictionary|section|
+ |--|--|
+ |HTML TEXT|1|
+ |CSS|2|
+ |JAVA|3|
 
 
 
