@@ -84,6 +84,28 @@ letters and other characters.
 Boolean data types can have one
 of two values: true or false.
 
+* * * 
+# quick quiz
+
+## in inline css style we use link in head tag to tell browser use css
+[] yes
+[x] no
+
+## to use paragraph tag we use ```<b>``` tag in html
+[] yes
+[x] no
+
+## to name variable in java we but the name after var 
+[x] yes
+[] no
+
+
+|Dictionary|
+|HTML TEXT|
+|CSS|
+|JAVA|
+
+
 
 
 
