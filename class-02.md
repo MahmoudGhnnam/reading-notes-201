@@ -100,10 +100,10 @@ of two values: true or false.
 [] no
 
 
-|Dictionary|
-|HTML TEXT|
-|CSS|
-|JAVA|
+|Dictionary | section|
+|HTML TEXT | 1|
+|CSS | 2|
+|JAVA | 3|
 
 
 
