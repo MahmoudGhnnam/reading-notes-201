@@ -22,6 +22,7 @@ relative URL.
 
 ## Directory Structure
 
+
 * Structure.
 The diagram on the right shows
 the directory structure for a
@@ -93,13 +94,13 @@ box or an inline box.
 Block-level elements
 start on a new line
 Examples include:
-<h1> <p> <ul> <li>
+```<h1> <p> <ul> <li>```
 
 Inline elements
 flow in between
 surrounding text
 Examples include:
-<img> <b> <i>
+```<img> <b> <i>```
 
 Containing Elements:
 If one block-level element sits inside another the block-level element then the outer box is known as the containing or parent element.
@@ -129,7 +130,8 @@ designers often try to create pages of around 960-1000 pixels wide
 
 * * * 
 
-## 6 Reasons for Pair Programming:
+## 6 Reasons for Pair Programming:.
+
  
 1. Greater efficiency:
 It is a common misconception that pair programming takes a lot longer and is less efficient. In reality, when two people focus on the same code base, it is easier to catch mistakes in the making.
