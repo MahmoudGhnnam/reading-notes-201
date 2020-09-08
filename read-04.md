@@ -23,7 +23,8 @@ relative URL.
 ## Directory Structure
 
 
-* Structure.
+* Structure:
+
 The diagram on the right shows
 the directory structure for a
 fictional entertainment listings
@@ -38,7 +39,8 @@ Each section of the site is placed
 in a separate folder; this helps
 organize the files.
 
-* Relationships.
+* Relationships:
+
 The relationship between
 files and folders on a website
 is described using the same
@@ -53,7 +55,8 @@ the movies, music, and theater
 folders are children of the
 examples folder.
 
-* Homepage ges
+* Homepage ges:
+
 The main homepage of a site
 written in HTML (and the
 homepages of each section in a
@@ -69,49 +72,56 @@ music will return examples
 .com/music/index.html.
 
 * Relative URLs:
+
 Relative URLs can be used when linking to pages within your own
 website. They provide a shorthand way of telling the browser where to
 find your files.
 
 * Opening Links in
 a New Window:
+
 target:
 If you want a link to open in 
 a new window, you can use the
 target attribute on the opening
 <a> tag. The value of this attribute should be _blank.
 
-* Linking to a Specific
+* Linking to a Specific:
+
 this you can help if you want to make a link for ex. for list on the top of the page to show something in the bottom of the page
 
 * * * 
  
-Building Blocks:
+* Building Blocks:
+
 CSS treats each HTML element as if it is in its
 own box. This box will either be a block-level
 box or an inline box.
 
-Block-level elements
+1. Block-level elements
 start on a new line
 Examples include:
 ```<h1> <p> <ul> <li>```
 
-Inline elements
+2. Inline elements
 flow in between
 surrounding text
 Examples include:
 ```<img> <b> <i>```
 
-Containing Elements:
+* Containing Elements:
+
 If one block-level element sits inside another the block-level element then the outer box is known as the containing or parent element.
 
 * Controlling the
 Position of Elements:
+
 CSS has the following positioning schemes that allow you to control
 the layout of a page: 
-1- normal flow, 
-2- relative positioning
-3- absolute positioning
+1. normal flow, 
+2. relative positioning
+3. absolute positioning
+
  You specify the positioning scheme using the position property in CSS. You can also float elements using the float property.
  
 
