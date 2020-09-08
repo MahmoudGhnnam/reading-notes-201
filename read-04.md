@@ -5,6 +5,8 @@ in every web page, we use the link to move from page to another page to write li
 
 the text between the opening and closing tag is known as a link and it should explain where visitors will be taken if they click on it  .
 
+![Drag Racing](/img/link2.png)
+
 * link to other site :
 When you link to a different
 website, the value of the href
