@@ -57,6 +57,8 @@ the movies, music, and theater
 folders are children of the
 examples folder.
 
+![Drag Racing](/img/link.png)
+
 * Homepage ges:
 
 The main homepage of a site
