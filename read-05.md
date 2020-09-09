@@ -89,51 +89,50 @@ colors, it is important to ensure that there is enough contrast for the text to 
 * * * 
 ## Typeface Terminology:
 
-Serif:
+* Serif:
 
 Serif fonts have extra details on the ends of the main strokes of the letters. These details are 
 known as serifs.
 
 
-SanS-Serif:
+* SanS-Serif:
 
-Sans-serif fonts have straight ends to letters, and therefore have a much cleaner design.
+* Sans-serif fonts have straight ends to letters, and therefore have a much cleaner design.
+
 ![Drag Racing](/img/text.png)
 
 
-monoSpace:
+* monoSpace:
 
 Every letter in a monospace (or fixed-width) font is the same width. (Non-monospace fonts have 
 different widths.)
 
-WEIGHT:
+### WEIGHT:
 you can make text with weigh :
 - light
 - medium
 - bold
 - black
 
-STYLE:
+### STYLE:
 - normal 
 - italic
 - oblique
 
-stretch:
+### stretch:
 condensed
 - regular
 - extended
 
-TYPEFACE FOR YOUR WEBSITE:
-When choosing
-a typeface, it
-is important to
-understand that a
+## TYPEFACE FOR YOUR WEBSITE:
+When choosinga typeface, it is important to
+understand. that a
 browser will usually only display it if it's
 installed on that
 user's computer.
 
-Specifying Typefaces
-font-family:
+## Specifying Typefaces
+* font-family:
 The font-family property
 allows you to specify the
 typeface that should be used for
@@ -142,8 +141,7 @@ which a CSS rule applies. The value of this property is the
 name of the typeface you want
 to use.
 
-Size of Type
-font-size:
+* Size of Type font-size:
 The font-size property enables
 you to specify a size for the
 font. There are several ways to
@@ -153,8 +151,9 @@ most common are:
 - precentages
 - ems
 
-Type Scales:
-you can choose text size in number 
+* Type Scales:
+you can choose text size in number  ![Drag Racing](/img/textsize.png)
 
 
-Units of Type Size:
+
+Units of Type Size:![Drag Racing](/img/pixels.png)
