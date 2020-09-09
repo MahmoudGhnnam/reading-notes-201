@@ -161,3 +161,23 @@ you can choose text size in number
 Units of Type Size:
 
 ![Drag Racing](/img/pixels.png)
+
+# quick quiz
+
+## to add img in html we use <insert> tag
+- [ ] yes
+- [x] no
+
+## Different visitors to your site will have same sized screens
+- [ ] yes
+- [x] no
+
+## you can change background color 
+- [x] yes
+- [ ] no
+
+|Dictionary|section|
+ |--|--|
+ |image|1|
+ |colort|2|
+ |text|3|
