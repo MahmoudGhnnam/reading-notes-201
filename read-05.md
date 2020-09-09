@@ -152,8 +152,11 @@ most common are:
 - ems
 
 * Type Scales:
-you can choose text size in number  ![Drag Racing](/img/textsize.png)
+you can choose text size in number
+  ![Drag Racing](/img/textsize.png)
 
 
 
-Units of Type Size:![Drag Racing](/img/pixels.png)
+Units of Type Size:
+
+![Drag Racing](/img/pixels.png)
