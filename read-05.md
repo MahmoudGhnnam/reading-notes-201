@@ -153,6 +153,7 @@ most common are:
 
 * Type Scales:
 you can choose text size in number
+
   ![Drag Racing](/img/textsize.png)
 
 
