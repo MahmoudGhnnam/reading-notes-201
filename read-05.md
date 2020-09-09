@@ -98,7 +98,7 @@ known as serifs.
 SanS-Serif:
 
 Sans-serif fonts have straight ends to letters, and therefore have a much cleaner design.
-![Drag Racing](/img/text2.png)
+![Drag Racing](/img/text.png)
 
 
 monoSpace:
