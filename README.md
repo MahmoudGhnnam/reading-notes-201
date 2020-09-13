@@ -24,3 +24,4 @@ is a website to help all the software develober to create their site and you don
 *[read3](https://mahmoudghnnam.github.io/reading-notes-201/read-03)*| class-02
 *[read4](https://mahmoudghnnam.github.io/reading-notes-201/read-04)*| class-03
 *[read5](https://mahmoudghnnam.github.io/reading-notes-201/read-05)*| class-04
+*[read6](https://mahmoudghnnam.github.io/reading-notes-201/read-06)*| class-05
