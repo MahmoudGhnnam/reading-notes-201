@@ -144,7 +144,7 @@ occurs.
 HTML elements nest inside other elements. If you hover or click on a link, you will also be 
 hovering or clicking on its parent elements.
 
-![event](/img/event2.png)
+![event](/img/event 2.png)
 
 ## why flow matters :
 
