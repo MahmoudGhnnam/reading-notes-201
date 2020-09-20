@@ -96,7 +96,7 @@ to improve its findability.
 ![pic](img/p.png)
 
 
-1. Page Title
+1 -  Page Title
 
 The page title appears at the top
 of the browser window or on the
@@ -104,21 +104,21 @@ tab of a browser. It is specified in
 the ```<title>``` element which lives
 inside the ```<head>``` element.
 
-2. URL / Web Address
+2 - URL / Web Address
 
 The name of the file is part of
 the URL. Where possible, use
 keywords in the file name.
 
-3. Headings
+3 -  Headings
 
 If the keywords are in a heading
-<hn> element then a search
+```<hn>``` element then a search
 engine will know that this page is
 all about that subject and give it
 greater weight than other text.
 
-4. Text
+4 - Text
 
 Where possible, it helps to
 repeat the keywords in the main
@@ -128,7 +128,7 @@ these terms, because the text
 must be easy for a human to
 read.
 
-5. Link Text
+5 - Link Text
 
 Use keywords in the text that
 create links between pages
@@ -142,7 +142,7 @@ will also help your images show
 up in the results of image-based
 searches.
 
-7. Page Descriptions
+7 - Page Descriptions
 
 The description also lives inside
 the ```<head>``` element and is
